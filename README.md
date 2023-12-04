@@ -49,12 +49,10 @@ This is a demo fintech API, which can create user, make transaction, search user
 https://documenter.getpostman.com/view/27747969/2s9YeLXUCo
 
 # Test Cases
-https://drive.google.com/drive/folders/1EbvoYB3vPCqm3NjawiPLfloLT374lOGj?usp=sharing
+https://docs.google.com/spreadsheets/d/1gNlpy-XgELZRmfmDx-mJ5WpVqnIqeDIV/edit?usp=sharing&ouid=113355521789297450357&rtpof=true&sd=true
 
-# Bug Report
-
-
-
+# Bug Report/Issue Report
+https://docs.google.com/spreadsheets/d/13T7Joh9PzvGYCfmff98v_CEUA781mEWa/edit?usp=sharing&ouid=113355521789297450357&rtpof=true&sd=true
 
 
 #Newman Report
